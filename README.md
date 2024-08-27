@@ -93,6 +93,3 @@ If you'd like to contribute to this project, please fork the repository and use 
 4. Push to the branch.
 5. Submit a pull request.
 
-## YouTube Video
-
-Link: [https://youtu.be/S0Wua5WxKZI](https://youtu.be/S0Wua5WxKZI)
